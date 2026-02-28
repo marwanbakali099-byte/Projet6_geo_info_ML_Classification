@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="figures/model_comparison.png" alt="Comparaison des performances des modèles" width="700"/>
-</p>
 # 🌍 Classification de la stabilité des terrains — Machine Learning Project
 
 ## 📌 Présentation
