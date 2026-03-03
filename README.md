@@ -94,7 +94,3 @@ Le modèle **XGBoost optimisé** a été sélectionné comme solution finale car
 - le meilleur F1-score macro
 - un bon équilibre entre les classes
 - une excellente capacité de généralisation
-
----
-
-## 📂 Structure du projet
